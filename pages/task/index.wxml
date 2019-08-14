@@ -1,0 +1,40 @@
+<view class="container">
+  <view class="tab">
+    <view class="tab-item active">
+      <text>进行中(2)</text>
+    </view>
+    <view class="tab-item">
+      <text>已完成(3/5)</text>
+      <view class="tab-radio-tip"></view>
+    </view>
+  </view>
+  <view class="task-list">
+    <view class="task-item">
+      <image class="task-cover" src="../../images/no-task-bg.png"></image>
+      <view class="task-desc">
+        <view class="task-number">658109</view>
+        <view class="task-name">室内渲染.max</view>
+        <view class="task-price">10.00</view>
+        <view class="task-status">待结算</view>
+      </view>
+    </view>
+    <view class="task-item">
+      <image class="task-cover" src="../../images/no-task-bg.png"></image>
+      <view class="task-desc">
+        <view class="task-number">658109</view>
+        <view class="task-name">室内渲染.max</view>
+        <view class="task-price">10.00</view>
+        <view class="task-status">待结算</view>
+      </view>
+    </view>
+    <view class="task-item">
+      <image class="task-cover" src="../../images/no-task-bg.png"></image>
+      <view class="task-desc">
+        <view class="task-number">658109</view>
+        <view class="task-name">室内渲染.max</view>
+        <view class="task-price">10.00</view>
+        <view class="task-status">待结算</view>
+      </view>
+    </view>
+  </view>
+</view>
